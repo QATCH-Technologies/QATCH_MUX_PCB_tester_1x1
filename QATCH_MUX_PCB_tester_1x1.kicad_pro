@@ -488,7 +488,7 @@
       "pos_files": "Pick and Place",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "SVG",
       "vrml": ""
     },
     "page_layout_descr_file": ""
